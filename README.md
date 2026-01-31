@@ -1,19 +1,20 @@
 # NTI Graduation Project
 
-**NTI Graduation Project** is a Flutter-based e-commerce application designed to manage products, display shopping carts, and provide a complete online shopping experience.
+**NTI Graduation Project** is a Flutter-based e-commerce application that provides a complete shopping experience.  
+It allows users to browse products, view product details, manage a shopping cart, and place orders seamlessly.
 
-The app is fully integrated with **Firebase** for authentication and data management, and uses **Provider** for state management, including theme and language preferences. The app communicates with a backend **API** to fetch and manage product data.
+The app is fully integrated with **Firebase** for authentication and data management, and uses **Provider** for state management, including theme and language preferences. It communicates with a backend **API** to fetch and manage product data.
 
 ---
 
 ## Features
 
-- Product listing and detailed views
-- Shopping cart management
-- User authentication with Firebase
-- Theme and language switching using Provider
-- Integration with backend API for e-commerce functionalities
-- Responsive design for multiple platforms (Android, iOS, Web, Desktop)
+- **Product Listing & Details:** Browse all available products and view detailed information.  
+- **Shopping Cart Management:** Add, remove, and update products in the cart.  
+- **User Authentication:** Secure login/signup using Firebase.  
+- **Theme & Language Switching:** Change the app theme and language dynamically using Provider.  
+- **API Integration:** Connects to a backend API for fetching products and performing e-commerce operations.  
+- **Responsive Design:** Works smoothly across Android, iOS, Web, and Desktop platforms.
 
 ---
 ## Screenshots
