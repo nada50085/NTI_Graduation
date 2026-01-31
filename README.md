@@ -21,23 +21,25 @@ The app is fully integrated with **Firebase** for authentication and data manage
 <table>
   <tr>
     <td><img src="assets/imagescreens/1.png" width="250"/></td>
-    <td><img src="assets/imagescreens/2.png" width="250"/></td>
+     </tr>
+     <tr>
+     <td><img src="assets/imagescreens/2.png" width="250"/></td>
     <td><img src="assets/imagescreens/3.png" width="250"/></td>
+    <td><img src="assets/imagescreens/4.png" width="250"/></td>
   </tr>
   <tr>
-    <td><img src="assets/imagescreens/4.png" width="250"/></td>
-    <td><img src="assets/imagescreens/5.png" width="250"/></td>
+   <td><img src="assets/imagescreens/5.png" width="250"/></td>
     <td><img src="assets/imagescreens/6.png" width="250"/></td>
   </tr>
   <tr>
     <td><img src="assets/imagescreens/7.png" width="250"/></td>
     <td><img src="assets/imagescreens/8.png" width="250"/></td>
-    <td><img src="assets/imagescreens/9.png" width="250"/></td>
+    
   </tr>
   <tr>
+  <td><img src="assets/imagescreens/9.png" width="250"/></td>
     <td><img src="assets/imagescreens/10.png" width="250"/></td>
-    <td><img src="assets/imagescreens/11.png" width="250"/></td>
-    <td></td>
+    
   </tr>
 </table>
 
