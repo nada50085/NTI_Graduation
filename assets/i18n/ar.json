@@ -1,0 +1,18 @@
+{
+  "settings": "الإعدادات",
+  "account": "الحساب",
+  "language": "اللغة",
+  "dark_mode": "الوضع الداكن",
+  "notifications": "الإشعارات",
+  "logout": "تسجيل الخروج",
+  "cart": "السلة :",
+  "checkout": "إتمام الدفع",
+  "search_about": "ابحث عن...",
+  "trendify": "ترينديفاي",
+  "your_cart_is_empty": "سلتك فارغة",
+  "total_price": "السعر الكلي: ",
+  "category": "التصنيف: ",
+  "home": "الرئيسية",
+  "description": "الوصف",
+  "no_description": "لا يوجد وصف متاح"
+}

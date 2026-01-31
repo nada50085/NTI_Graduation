@@ -1,0 +1,18 @@
+{
+  "settings": "Settings",
+  "account": "Account",
+  "language": "Language",
+  "dark_mode": "Dark Mode",
+  "notifications": "Notifications",
+  "logout": "Logout",
+  "cart": "Cart :",
+  "checkout": "Checkout",
+  "search_about": "Search about...",
+  "trendify": "Trendify",
+  "your_cart_is_empty": "Your cart is empty",
+  "total_price": "Total Price: ",
+  "category": "Category: ",
+  "home": "Home",
+  "description": "Description",
+  "no_description": "No description available"
+}
