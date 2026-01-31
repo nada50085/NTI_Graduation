@@ -16,29 +16,30 @@ The app is fully integrated with **Firebase** for authentication and data manage
 - Responsive design for multiple platforms (Android, iOS, Web, Desktop)
 
 ---
-
 ## Screenshots
 
-### Home Screen
-![Home](assets/imagescreens/1.png)
-
-### Product Listing
-![Screen2](assets/imagescreens/2.png)
-
-### Product Details
-![Screen3](assets/imagescreens/3.png)
-
-### Shopping Cart
-![Screen4](assets/imagescreens/4.png)
-
-### Settings
-![Screen5](assets/imagescreens/5.png)
-![Screen6](assets/imagescreens/6.png)
-![Screen7](assets/imagescreens/7.png)
-![Screen8](assets/imagescreens/8.png)
-![Screen9](assets/imagescreens/9.png)
-![Screen10](assets/imagescreens/10.png)
-![Screen11](assets/imagescreens/11.png)
+<table>
+  <tr>
+    <td><img src="assets/imagescreens/1.png" width="250"/></td>
+    <td><img src="assets/imagescreens/2.png" width="250"/></td>
+    <td><img src="assets/imagescreens/3.png" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="assets/imagescreens/4.png" width="250"/></td>
+    <td><img src="assets/imagescreens/5.png" width="250"/></td>
+    <td><img src="assets/imagescreens/6.png" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="assets/imagescreens/7.png" width="250"/></td>
+    <td><img src="assets/imagescreens/8.png" width="250"/></td>
+    <td><img src="assets/imagescreens/9.png" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="assets/imagescreens/10.png" width="250"/></td>
+    <td><img src="assets/imagescreens/11.png" width="250"/></td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
